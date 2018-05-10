@@ -24,6 +24,9 @@ public class NoticeApplication {
      */
     private static final String HUOBI_NOTICE = "https://www.huobipro.com/-/x/hb/p/api/contents/pro/list_notice?r=am5aluwb4bs&limit=10&language=zh-cn";
 
+    /**
+     * OKEX公告
+     */
     private static final String OKEX_NOTICE = "https://support.okex.com/hc/zh-cn/sections/115000447632-%E5%85%AC%E5%91%8A%E4%B8%AD%E5%BF%83";
 
     public static void main(String[] args) {
